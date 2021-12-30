@@ -29,7 +29,7 @@
 
 Разработанное веб-приложение необходимо развернуть на сервере WildFly. Сервер должен быть запущен в standalone-конфигурации, порты должны быть настроены в соответствии с выданным portbase, доступ к http listener'у должен быть открыт для всех IP.
 ## Координатная плоскость:
-![Coordinate plane](https://github.com/CYEliN/web02/blob/master/src/main/webapp/img/web01_area_12025.png)
+![Coordinate plane](https://github.com/CYEliN/web02/blob/master/src/main/webapp/img/web02_area_12044.png)
 
 - Координата Х задаётся через чекбоксы, а координаты Y и R - через текстовые поля
 - Метод HTTP: GET
